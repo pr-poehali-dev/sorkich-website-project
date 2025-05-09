@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 const Index = () => {
   // Функция для перехода в Telegram
   const redirectToTelegram = () => {
-    window.open("https://t.me/gde_sorkich", "_blank");
+    window.open("https://t.me/+QgiLIa1gFRY4Y2Iy", "_blank");
   };
 
   return (
